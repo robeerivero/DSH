@@ -1,0 +1,4 @@
+repository "Mixamo/Mixamo@6872731406705@cloud"
+  path "/"
+    br "/main"
+    co "/main"
